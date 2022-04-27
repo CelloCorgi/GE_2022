@@ -20,7 +20,7 @@ observe into a broader engineering context.
 * Our de-identified dataset, aggregated by department, sex, and, teaching title (professor v.s. student instructor)
 * A copy of the paper's preprint
 
-If you would like to access the non-aggregated data for individual instructors or classes, please reach out to the research team (see their emails below)!
+The aggregated version of our data is also available online on Google sheets [here](https://docs.google.com/spreadsheets/d/1B6MYcKYqVj39MHlZaH9laEYxM7F0nnz54d0hUApr3tk/edit?usp=sharing). If you would like to access the non-aggregated data for individual instructors or classes, please reach out to the research team (see their emails below)!
 
 ### Paper Authors
 
