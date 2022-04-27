@@ -1,0 +1,1083 @@
+Teaching evaluation data aggregated by department and broken down by sex, instructor type, and question Note: Only contains data from classes with enrollment of at least 40 (top quartile of class size)  If you are interested in viewing data for individual instructors or for individual courses, please reach out to Madeline Endres (endremad@umich.edu) and Westley Weimer (weimerw@umich.edu)												
+Department of the data for any given row. See Sheet 2 for decoding these	Instructor Type: Professor, Not a Professer (e.g., TA), or All (Professor and Not a Professor) 	The sex of instructors in this row	The teaching evaluation question (or questions) considered in this row	The number of instructors aggregated in this row	Number of "Strong Disagree" ratings 	Number of "Disagree" ratings 	Number of "Neutral" ratings 	Number of "Agree" ratings 	Number of "Strong Agree" ratings 	Number of "Not Applicable" ratings 	Total number of ratings (not including NA ratings)	Average evaluation score for teachers aggregated in this row.  Note: Calculated by first calculating the score for each teacher using an Interpolated Median (http://aec.umich.edu/median.php). These scores are then averaged. Thus, this column will not equal the Interpolated Median of the raw data in columns SD-SA)
+Department	Instructor Type	Instructor Sex	Question	Number of Instructors	1 (SD)	2 (D)	3 (N)	4 (A)	5 (SA)	NAs	Total	Average Teaching Score
+AEROSP	All	Male	All Questions	17	91	316	617	1654	2551	196	5229	4.40032892
+AEROSP	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	17	15	59	121	220	265	0	680	4.091082406
+AEROSP	All	Male	My interest in the subject has increased because of this course.	17	21	65	98	227	266	1	677	4.059407459
+AEROSP	All	Male	Overall, the instructor was an excellent teacher.	17	9	34	81	210	296	47	630	4.37619205
+AEROSP	All	Male	Overall, this was an excellent course	17	23	51	113	216	276	0	679	4.131205912
+AEROSP	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	17	5	40	72	212	304	46	633	4.394657891
+AEROSP	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	17	6	24	50	163	379	55	622	4.55181788
+AEROSP	All	Male	The instructor treated students with respect.	17	4	17	37	140	429	47	627	4.790412723
+AEROSP	All	Male	This course advanced my understanding of the subject matter.	17	8	26	45	266	336	0	681	4.423248777
+AEROSP	Professor	Male	All Questions	11	73	240	488	1269	1977	1	4047	4.387299013
+AEROSP	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	11	12	44	98	165	188	0	507	4.070791266
+AEROSP	Professor	Male	My interest in the subject has increased because of this course.	11	18	47	74	171	194	1	504	4.063365542
+AEROSP	Professor	Male	Overall, the instructor was an excellent teacher.	11	7	28	63	162	245	0	505	4.40278349
+AEROSP	Professor	Male	Overall, this was an excellent course	11	18	37	91	159	201	0	506	4.109001794
+AEROSP	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	3	29	58	166	251	0	507	4.402927275
+AEROSP	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	3	16	37	131	319	0	506	4.573459389
+AEROSP	Professor	Male	The instructor treated students with respect.	11	4	17	30	116	337	0	504	4.761216915
+AEROSP	Professor	Male	This course advanced my understanding of the subject matter.	11	8	22	37	199	242	0	508	4.403383613
+AEROSP	All	Female	All Questions	6	110	172	229	694	825	174	2030	4.191812223
+AEROSP	Not a Professor	Male	All Questions	6	18	76	129	385	574	195	1182	4.424217084
+AEROSP	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	6	15	39	36	93	92	1	275	3.939673046
+AEROSP	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	6	3	15	23	55	77	0	173	4.128282828
+AEROSP	All	Female	My interest in the subject has increased because of this course.	6	12	34	24	100	101	2	271	4.140913099
+AEROSP	Not a Professor	Male	My interest in the subject has increased because of this course.	6	3	18	24	56	72	0	173	4.052150974
+AEROSP	All	Female	Overall, the instructor was an excellent teacher.	6	16	19	37	80	83	41	235	4.042489035
+AEROSP	Not a Professor	Male	Overall, the instructor was an excellent teacher.	6	2	6	18	48	51	47	125	4.327441077
+AEROSP	All	Female	Overall, this was an excellent course	6	32	25	43	79	96	1	275	3.804019457
+AEROSP	Not a Professor	Male	Overall, this was an excellent course	6	5	14	22	57	75	0	173	4.171913462
+AEROSP	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	18	15	35	74	90	42	232	4.127425842
+AEROSP	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	2	11	14	46	53	46	126	4.379497354
+AEROSP	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	5	16	27	79	99	49	226	4.340145802
+AEROSP	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	3	8	13	32	60	55	116	4.51214178
+AEROSP	All	Female	The instructor treated students with respect.	6	4	8	13	69	146	36	240	4.623642748
+AEROSP	Not a Professor	Male	The instructor treated students with respect.	6	0	0	7	24	92	47	123	4.843938372
+AEROSP	All	Female	This course advanced my understanding of the subject matter.	6	8	16	14	120	118	2	276	4.347839506
+AEROSP	Not a Professor	Male	This course advanced my understanding of the subject matter.	6	0	4	8	67	94	0	173	4.459668245
+AEROSP	Professor	Female	All Questions	4	72	112	163	508	679	71	1534	4.230866299
+AEROSP	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	4	8	24	24	70	74	1	200	4.058373206
+AEROSP	Professor	Female	My interest in the subject has increased because of this course.	4	8	22	18	70	79	2	197	4.147877585
+AEROSP	Professor	Female	Overall, the instructor was an excellent teacher.	4	13	14	27	60	70	17	184	4.055921053
+AEROSP	Professor	Female	Overall, this was an excellent course	4	19	15	28	56	82	1	200	3.936683948
+AEROSP	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	13	9	27	55	78	17	182	4.15780543
+AEROSP	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	3	11	17	63	87	19	181	4.431372549
+AEROSP	Professor	Female	The instructor treated students with respect.	4	3	8	12	49	117	12	189	4.601224992
+AEROSP	Professor	Female	This course advanced my understanding of the subject matter.	4	5	9	10	85	92	2	201	4.36087963
+AEROSP	Not a Professor	Female	All Questions	2	38	60	66	186	146	103	496	4.113704071
+AEROSP	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	7	15	12	23	18	0	75	3.702272727
+AEROSP	Not a Professor	Female	My interest in the subject has increased because of this course.	2	4	12	6	30	22	0	74	4.126984127
+AEROSP	Not a Professor	Female	Overall, the instructor was an excellent teacher.	2	3	5	10	20	13	24	51	4.015625
+AEROSP	Not a Professor	Female	Overall, this was an excellent course	2	13	10	15	23	14	0	75	3.538690476
+AEROSP	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	5	6	8	19	12	25	50	4.066666667
+AEROSP	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	2	5	10	16	12	30	45	4.157692308
+AEROSP	Not a Professor	Female	The instructor treated students with respect.	2	1	0	1	20	29	24	51	4.668478261
+AEROSP	Not a Professor	Female	This course advanced my understanding of the subject matter.	2	3	7	4	35	26	0	75	4.321759259
+AUTO	All	Male	All Questions	3	1	10	37	166	220	54	434	4.477301088
+AUTO	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	0	1	7	25	28	0	61	4.34375
+AUTO	All	Male	My interest in the subject has increased because of this course.	3	1	3	4	17	36	0	61	4.652083333
+AUTO	All	Male	Overall, the instructor was an excellent teacher.	3	0	1	7	23	17	13	48	3.972222222
+AUTO	All	Male	Overall, this was an excellent course	3	0	3	4	29	25	0	61	4.295900178
+AUTO	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	1	6	20	19	15	46	4.3
+AUTO	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	0	6	14	26	15	46	4.610479798
+AUTO	All	Male	The instructor treated students with respect.	3	0	0	2	15	33	11	50	4.740079365
+AUTO	All	Male	This course advanced my understanding of the subject matter.	3	0	1	1	23	36	0	61	4.652083333
+AUTO	Not a Professor	Male	All Questions	2	1	7	30	103	157	54	298	4.505634172
+AUTO	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	0	1	4	17	22	0	44	4.421875
+AUTO	Not a Professor	Male	My interest in the subject has increased because of this course.	2	1	2	3	12	26	0	44	4.653125
+AUTO	Not a Professor	Male	Overall, the instructor was an excellent teacher.	2	0	0	7	12	12	13	31	3.867424242
+AUTO	Not a Professor	Male	Overall, this was an excellent course	2	0	2	3	18	21	0	44	4.398395722
+AUTO	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	1	4	10	14	15	29	4.375
+AUTO	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	0	6	8	15	15	29	4.552083333
+AUTO	Not a Professor	Male	The instructor treated students with respect.	2	0	0	2	10	21	11	33	4.714285714
+AUTO	Not a Professor	Male	This course advanced my understanding of the subject matter.	2	0	1	1	16	26	0	44	4.653125
+AUTO	All	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	All	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+AUTO	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+BIOMEDE	All	Male	All Questions	24	95	318	1022	3038	3760	1318	8233	4.320605618
+BIOMEDE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	24	24	51	210	444	472	0	1201	4.122096855
+BIOMEDE	All	Male	My interest in the subject has increased because of this course.	24	28	112	226	452	387	0	1205	3.989950603
+BIOMEDE	All	Male	Overall, the instructor was an excellent teacher.	24	2	23	93	306	432	326	856	4.389151613
+BIOMEDE	All	Male	Overall, this was an excellent course	24	27	63	247	520	345	0	1202	3.950917823
+BIOMEDE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	24	5	25	83	298	442	333	853	4.4306311
+BIOMEDE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	24	2	12	51	273	503	349	841	4.579837399
+BIOMEDE	All	Male	The instructor treated students with respect.	24	1	12	55	201	599	310	868	4.692325973
+BIOMEDE	All	Male	This course advanced my understanding of the subject matter.	24	6	20	57	544	580	0	1207	4.446193192
+BIOMEDE	Not a Professor	Male	All Questions	16	60	206	678	1962	2274	1268	5180	4.27919099
+BIOMEDE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	16	19	33	138	289	335	0	814	4.134938801
+BIOMEDE	Not a Professor	Male	My interest in the subject has increased because of this course.	16	17	88	167	307	237	0	816	3.897242998
+BIOMEDE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	16	0	8	47	184	243	314	482	4.392259127
+BIOMEDE	Not a Professor	Male	Overall, this was an excellent course	16	19	50	177	341	226	0	813	3.899415597
+BIOMEDE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	16	1	4	41	169	266	318	481	4.505739331
+BIOMEDE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	16	1	3	32	160	269	336	465	4.550525255
+BIOMEDE	Not a Professor	Male	The instructor treated students with respect.	16	1	4	33	128	326	300	492	4.654063204
+BIOMEDE	Not a Professor	Male	This course advanced my understanding of the subject matter.	16	2	16	43	384	372	0	817	4.403681499
+BIOMEDE	All	Female	All Questions	13	107	294	710	2045	2288	769	5444	4.246657573
+BIOMEDE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	13	24	43	139	268	308	0	782	4.039619608
+BIOMEDE	All	Female	My interest in the subject has increased because of this course.	13	31	92	178	291	189	0	781	3.761835774
+BIOMEDE	All	Female	Overall, the instructor was an excellent teacher.	13	4	25	63	225	266	189	583	4.362305263
+BIOMEDE	All	Female	Overall, this was an excellent course	13	31	73	166	298	214	0	782	3.821302181
+BIOMEDE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	13	9	20	51	216	288	188	584	4.423331933
+BIOMEDE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	13	2	11	32	198	320	210	563	4.592606588
+BIOMEDE	All	Female	The instructor treated students with respect.	13	2	5	23	159	398	182	587	4.736325159
+BIOMEDE	All	Female	This course advanced my understanding of the subject matter.	13	4	25	58	390	305	0	782	4.291371526
+BIOMEDE	Not a Professor	Female	All Questions	8	51	137	377	1139	1245	756	2949	4.282769661
+BIOMEDE	Professor	Male	All Questions	8	35	112	344	1076	1486	50	3053	4.403434872
+BIOMEDE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	8	12	23	77	158	198	0	468	4.085983371
+BIOMEDE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	8	5	18	72	155	137	0	387	4.096412962
+BIOMEDE	Not a Professor	Female	My interest in the subject has increased because of this course.	8	17	51	102	175	122	0	467	3.789316824
+BIOMEDE	Professor	Male	My interest in the subject has increased because of this course.	8	11	24	59	145	150	0	389	4.175365814
+BIOMEDE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	8	1	5	26	113	129	186	274	4.451623377
+BIOMEDE	Professor	Male	Overall, the instructor was an excellent teacher.	8	2	15	46	122	189	12	374	4.382936586
+BIOMEDE	Not a Professor	Female	Overall, this was an excellent course	8	16	39	93	180	140	0	468	3.849902622
+BIOMEDE	Professor	Male	Overall, this was an excellent course	8	8	13	70	179	119	0	389	4.053922276
+BIOMEDE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	1	3	18	109	143	185	274	4.555034722
+BIOMEDE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	4	21	42	129	176	15	372	4.280414637
+BIOMEDE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	1	2	15	93	142	206	253	4.611528352
+BIOMEDE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	1	9	19	113	234	13	376	4.638461688
+BIOMEDE	Not a Professor	Female	The instructor treated students with respect.	8	1	1	15	87	173	179	277	4.697827643
+BIOMEDE	Professor	Male	The instructor treated students with respect.	8	0	8	22	73	273	10	376	4.768851512
+BIOMEDE	Not a Professor	Female	This course advanced my understanding of the subject matter.	8	2	13	31	224	198	0	468	4.343511647
+BIOMEDE	Professor	Male	This course advanced my understanding of the subject matter.	8	4	4	14	160	208	0	390	4.531216578
+BIOMEDE	Professor	Female	All Questions	5	56	157	333	906	1043	13	2495	4.188878232
+BIOMEDE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	5	12	20	62	110	110	0	314	3.965437587
+BIOMEDE	Professor	Female	My interest in the subject has increased because of this course.	5	14	41	76	116	67	0	314	3.717866094
+BIOMEDE	Professor	Female	Overall, the instructor was an excellent teacher.	5	3	20	37	112	137	3	309	4.21939628
+BIOMEDE	Professor	Female	Overall, this was an excellent course	5	15	34	73	118	74	0	314	3.775541475
+BIOMEDE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	8	17	33	107	145	3	310	4.21260747
+BIOMEDE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	1	9	17	105	178	4	310	4.562331766
+BIOMEDE	Professor	Female	The instructor treated students with respect.	5	1	4	8	72	225	3	310	4.797921184
+BIOMEDE	Professor	Female	This course advanced my understanding of the subject matter.	5	2	12	27	166	107	0	314	4.207947331
+CEE	All	Male	All Questions	6	33	108	170	526	1011	3	1848	4.476416652
+CEE	Professor	Male	All Questions	6	33	108	170	526	1011	3	1848	4.476416652
+CEE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	6	3	17	25	73	112	0	230	4.279756589
+CEE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	6	3	17	25	73	112	0	230	4.279756589
+CEE	All	Male	My interest in the subject has increased because of this course.	6	15	27	28	81	81	0	232	4.152514731
+CEE	Professor	Male	My interest in the subject has increased because of this course.	6	15	27	28	81	81	0	232	4.152514731
+CEE	All	Male	Overall, the instructor was an excellent teacher.	6	2	15	27	60	127	1	231	4.43174264
+CEE	Professor	Male	Overall, the instructor was an excellent teacher.	6	2	15	27	60	127	1	231	4.43174264
+CEE	All	Male	Overall, this was an excellent course	6	4	22	40	78	87	0	231	4.138354701
+CEE	Professor	Male	Overall, this was an excellent course	6	4	22	40	78	87	0	231	4.138354701
+CEE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	5	13	27	62	123	2	230	4.402055396
+CEE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	5	13	27	62	123	2	230	4.402055396
+CEE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	0	7	12	47	165	0	231	4.715484618
+CEE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	6	0	7	12	47	165	0	231	4.715484618
+CEE	All	Male	The instructor treated students with respect.	6	1	1	3	29	197	0	231	4.895950965
+CEE	Professor	Male	The instructor treated students with respect.	6	1	1	3	29	197	0	231	4.895950965
+CEE	All	Male	This course advanced my understanding of the subject matter.	6	3	6	8	96	119	0	232	4.517250365
+CEE	Professor	Male	This course advanced my understanding of the subject matter.	6	3	6	8	96	119	0	232	4.517250365
+CEE	All	Female	All Questions	4	48	168	345	644	647	1	1852	4.190043602
+CEE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	4	3	26	43	89	69	1	230	4.097916667
+CEE	All	Female	My interest in the subject has increased because of this course.	4	16	47	53	78	37	0	231	3.552252664
+CEE	All	Female	Overall, the instructor was an excellent teacher.	4	6	21	62	80	62	0	231	4.013642062
+CEE	All	Female	Overall, this was an excellent course	4	11	32	79	73	37	0	232	3.629610079
+CEE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	4	22	56	77	73	0	232	4.096403069
+CEE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	1	7	18	71	133	0	230	4.663853074
+CEE	All	Female	The instructor treated students with respect.	4	3	4	12	59	156	0	234	4.698097367
+CEE	All	Female	This course advanced my understanding of the subject matter.	4	4	9	22	117	80	0	232	4.285016109
+CEE	Professor	Female	All Questions	3	48	157	333	595	459	0	1592	3.983887923
+CEE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	3	25	41	81	49	0	199	3.888888889
+CEE	Professor	Female	My interest in the subject has increased because of this course.	3	16	41	49	65	28	0	199	3.415824065
+CEE	Professor	Female	Overall, the instructor was an excellent teacher.	3	6	21	62	79	30	0	198	3.690064416
+CEE	Professor	Female	Overall, this was an excellent course	3	11	28	75	61	25	0	200	3.450591216
+CEE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	4	22	56	76	41	0	199	3.800412425
+CEE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	7	18	70	101	0	197	4.557012432
+CEE	Professor	Female	The instructor treated students with respect.	3	3	4	12	58	123	0	200	4.602513661
+CEE	Professor	Female	This course advanced my understanding of the subject matter.	3	4	9	20	105	62	0	200	4.176317775
+CEE	Not a Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CEE	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHE	All	Male	All Questions	57	555	1155	2580	6596	8728	894	19614	4.263645671
+CHE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	57	82	177	407	938	962	3	2566	4.09295379
+CHE	All	Male	My interest in the subject has increased because of this course.	57	148	278	464	863	809	6	2562	3.826540634
+CHE	All	Male	Overall, the instructor was an excellent teacher.	57	62	134	317	792	1044	205	2349	4.234931487
+CHE	All	Male	Overall, this was an excellent course	57	111	243	496	933	782	2	2565	3.853447482
+CHE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	57	76	111	325	746	1081	226	2339	4.265372883
+CHE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	57	23	75	210	665	1341	247	2314	4.521848558
+CHE	All	Male	The instructor treated students with respect.	57	14	41	138	586	1572	202	2351	4.682808274
+CHE	All	Male	This course advanced my understanding of the subject matter.	57	39	96	223	1073	1137	3	2568	4.320043793
+CHE	Professor	Male	All Questions	36	412	864	1814	4782	6732	225	14604	4.264801326
+CHE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	36	64	129	278	666	719	2	1856	4.060975195
+CHE	Professor	Male	My interest in the subject has increased because of this course.	36	96	172	333	650	602	3	1853	3.864341261
+CHE	Professor	Male	Overall, the instructor was an excellent teacher.	36	55	124	228	578	812	51	1797	4.182267867
+CHE	Professor	Male	Overall, this was an excellent course	36	70	168	326	688	602	1	1854	3.88477411
+CHE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	36	68	100	250	529	851	56	1798	4.21071476
+CHE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	36	19	68	144	480	1086	58	1797	4.543088023
+CHE	Professor	Male	The instructor treated students with respect.	36	12	38	98	419	1227	52	1794	4.679350494
+CHE	Professor	Male	This course advanced my understanding of the subject matter.	36	28	65	157	772	833	2	1855	4.319295386
+CHE	Not a Professor	Male	All Questions	21	143	291	766	1814	1996	669	5010	4.261664548
+CHE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	21	18	48	129	272	243	1	710	4.147774238
+CHE	Not a Professor	Male	My interest in the subject has increased because of this course.	21	52	106	131	213	207	3	709	3.761739559
+CHE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	21	7	10	89	214	232	154	552	4.325211978
+CHE	Not a Professor	Male	Overall, this was an excellent course	21	41	75	170	245	180	1	711	3.799744692
+CHE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	21	8	11	75	217	230	170	541	4.359072523
+CHE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	21	4	7	66	185	255	189	517	4.485438046
+CHE	Not a Professor	Male	The instructor treated students with respect.	21	2	3	40	167	345	150	557	4.688735896
+CHE	Not a Professor	Male	This course advanced my understanding of the subject matter.	21	11	31	66	301	304	1	713	4.321326775
+CHE	All	Female	All Questions	19	174	326	739	1805	1956	341	5000	4.266908233
+CHE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	19	33	55	125	260	190	7	663	4.003372956
+CHE	All	Female	My interest in the subject has increased because of this course.	19	43	76	145	218	177	8	659	3.879073806
+CHE	All	Female	Overall, the instructor was an excellent teacher.	19	21	41	82	214	231	77	589	4.21448235
+CHE	All	Female	Overall, this was an excellent course	19	37	68	153	227	179	6	664	3.918149798
+CHE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	19	20	39	78	209	242	78	588	4.306834546
+CHE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	19	5	18	57	203	300	84	583	4.521596318
+CHE	All	Female	The instructor treated students with respect.	19	1	6	36	159	391	74	593	4.700730549
+CHE	All	Female	This course advanced my understanding of the subject matter.	19	14	23	63	315	246	7	661	4.275152832
+CHE	Professor	Female	All Questions	15	151	298	661	1569	1621	115	4300	4.2190141
+CHE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	15	30	51	115	222	135	1	553	3.942050188
+CHE	Professor	Female	My interest in the subject has increased because of this course.	15	39	68	128	177	138	2	550	3.796300505
+CHE	Professor	Female	Overall, the instructor was an excellent teacher.	15	16	38	72	191	206	27	523	4.242510976
+CHE	Professor	Female	Overall, this was an excellent course	15	35	61	139	192	126	1	553	3.820262472
+CHE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	15	15	36	67	192	213	27	523	4.302488261
+CHE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	15	2	16	49	187	267	30	521	4.53110714
+CHE	Professor	Female	The instructor treated students with respect.	15	1	6	31	140	348	26	526	4.712895484
+CHE	Professor	Female	This course advanced my understanding of the subject matter.	15	13	22	60	268	188	1	551	4.213180904
+CHE	Not a Professor	Female	All Questions	4	23	28	78	236	335	226	700	4.446511236
+CHE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	4	3	4	10	38	55	6	110	4.233333333
+CHE	Not a Professor	Female	My interest in the subject has increased because of this course.	4	4	8	17	41	39	6	109	4.189473684
+CHE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	4	5	3	10	23	25	50	66	4.109375
+CHE	Not a Professor	Female	Overall, this was an excellent course	4	2	7	14	35	53	5	111	4.285227273
+CHE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	5	3	11	17	29	51	65	4.323133117
+CHE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	3	2	8	16	33	54	62	4.485930736
+CHE	Not a Professor	Female	The instructor treated students with respect.	4	0	0	5	19	43	48	67	4.655112045
+CHE	Not a Professor	Female	This course advanced my understanding of the subject matter.	4	1	1	3	47	58	6	110	4.50754756
+CHEM	All	Male	All Questions	2	11	71	141	312	573	8	1108	4.253879969
+CHEM	Professor	Male	All Questions	2	11	71	141	312	573	8	1108	4.253879969
+CHEM	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	1	9	14	33	81	1	138	4.252902156
+CHEM	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	1	9	14	33	81	1	138	4.252902156
+CHEM	All	Male	My interest in the subject has increased because of this course.	2	3	18	34	52	32	1	139	3.753189793
+CHEM	Professor	Male	My interest in the subject has increased because of this course.	2	3	18	34	52	32	1	139	3.753189793
+CHEM	All	Male	Overall, the instructor was an excellent teacher.	2	2	10	15	36	76	1	139	4.179096639
+CHEM	Professor	Male	Overall, the instructor was an excellent teacher.	2	2	10	15	36	76	1	139	4.179096639
+CHEM	All	Male	Overall, this was an excellent course	2	2	10	21	48	56	1	137	4.015306122
+CHEM	Professor	Male	Overall, this was an excellent course	2	2	10	21	48	56	1	137	4.015306122
+CHEM	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	7	17	29	83	1	139	4.129346681
+CHEM	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	7	17	29	83	1	139	4.129346681
+CHEM	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	9	14	26	90	1	139	4.239078822
+CHEM	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	9	14	26	90	1	139	4.239078822
+CHEM	All	Male	The instructor treated students with respect.	2	0	0	3	22	113	1	138	4.875578704
+CHEM	Professor	Male	The instructor treated students with respect.	2	0	0	3	22	113	1	138	4.875578704
+CHEM	All	Male	This course advanced my understanding of the subject matter.	2	0	8	23	66	42	1	139	4.029365079
+CHEM	Professor	Male	This course advanced my understanding of the subject matter.	2	0	8	23	66	42	1	139	4.029365079
+CHEM	All	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	All	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CHEM	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Male	All Questions	3	61	137	388	1007	1409	70	3002	4.369515622
+CLIMATE	Professor	Male	All Questions	3	61	137	388	1007	1409	70	3002	4.369515622
+CLIMATE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	8	14	43	113	203	2	381	4.419246819
+CLIMATE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	8	14	43	113	203	2	381	4.419246819
+CLIMATE	All	Male	My interest in the subject has increased because of this course.	3	19	44	89	133	91	8	376	3.729386987
+CLIMATE	Professor	Male	My interest in the subject has increased because of this course.	3	19	44	89	133	91	8	376	3.729386987
+CLIMATE	All	Male	Overall, the instructor was an excellent teacher.	3	5	12	45	125	186	12	373	4.394794585
+CLIMATE	Professor	Male	Overall, the instructor was an excellent teacher.	3	5	12	45	125	186	12	373	4.394794585
+CLIMATE	All	Male	Overall, this was an excellent course	3	14	26	71	149	120	2	380	4.014497116
+CLIMATE	Professor	Male	Overall, this was an excellent course	3	14	26	71	149	120	2	380	4.014497116
+CLIMATE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	4	17	33	117	197	17	368	4.447425482
+CLIMATE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	4	17	33	117	197	17	368	4.447425482
+CLIMATE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	2	23	99	246	14	371	4.751589974
+CLIMATE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	2	23	99	246	14	371	4.751589974
+CLIMATE	All	Male	The instructor treated students with respect.	3	1	1	21	106	244	10	373	4.730301648
+CLIMATE	Professor	Male	The instructor treated students with respect.	3	1	1	21	106	244	10	373	4.730301648
+CLIMATE	All	Male	This course advanced my understanding of the subject matter.	3	9	21	63	165	122	5	380	4.104357298
+CLIMATE	Professor	Male	This course advanced my understanding of the subject matter.	3	9	21	63	165	122	5	380	4.104357298
+CLIMATE	All	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	All	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+CLIMATE	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+EECS	All	Male	All Questions	104	966	1769	5706	16218	27091	6329	51750	4.396595986
+EECS	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	104	107	260	1037	2443	3321	135	7168	4.230237659
+EECS	All	Male	My interest in the subject has increased because of this course.	104	265	475	970	2404	3072	120	7186	4.181573714
+EECS	All	Male	Overall, the instructor was an excellent teacher.	104	99	183	677	1722	3109	1428	5790	4.378169418
+EECS	All	Male	Overall, this was an excellent course	104	191	378	968	2451	3191	123	7179	4.185982529
+EECS	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	104	106	172	664	1633	3180	1455	5755	4.387149996
+EECS	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	104	62	113	475	1528	3497	1537	5675	4.502741918
+EECS	All	Male	The instructor treated students with respect.	104	49	61	431	1408	3845	1412	5794	4.66280752
+EECS	All	Male	This course advanced my understanding of the subject matter.	104	87	127	484	2629	3876	119	7203	4.459843293
+EECS	Not a Professor	Male	All Questions	56	344	645	2340	6682	9981	5056	19992	4.345378055
+EECS	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	56	44	124	438	1018	1435	107	3059	4.184232453
+EECS	Not a Professor	Male	My interest in the subject has increased because of this course.	56	106	184	427	1073	1284	94	3074	4.104435807
+EECS	Not a Professor	Male	Overall, the instructor was an excellent teacher.	56	28	45	235	656	997	1138	1961	4.360220008
+EECS	Not a Professor	Male	Overall, this was an excellent course	56	73	154	412	1040	1389	97	3068	4.131441623
+EECS	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	56	31	40	228	592	1036	1165	1927	4.387268532
+EECS	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	56	17	36	210	574	1012	1242	1849	4.43093423
+EECS	Not a Professor	Male	The instructor treated students with respect.	56	10	14	172	547	1226	1120	1969	4.642151021
+EECS	Not a Professor	Male	This course advanced my understanding of the subject matter.	56	35	48	218	1182	1602	93	3085	4.402282445
+EECS	Professor	Male	All Questions	48	622	1124	3366	9536	17110	1273	31758	4.45635024
+EECS	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	48	63	136	599	1425	1886	28	4109	4.283910399
+EECS	Professor	Male	My interest in the subject has increased because of this course.	48	159	291	543	1331	1788	26	4112	4.271567939
+EECS	Professor	Male	Overall, the instructor was an excellent teacher.	48	71	138	442	1066	2112	290	3829	4.399110396
+EECS	Professor	Male	Overall, this was an excellent course	48	118	224	556	1411	1802	26	4111	4.249613586
+EECS	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	48	75	132	436	1041	2144	290	3828	4.387011705
+EECS	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	48	45	77	265	954	2485	295	3826	4.586517553
+EECS	Professor	Male	The instructor treated students with respect.	48	39	47	259	861	2619	292	3825	4.68690677
+EECS	Professor	Male	This course advanced my understanding of the subject matter.	48	52	79	266	1447	2274	26	4118	4.526997616
+EECS	All	Female	All Questions	33	936	1584	4321	10193	10668	5537	27702	4.244605375
+EECS	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	33	105	283	723	1530	1415	121	4056	4.117995203
+EECS	All	Female	My interest in the subject has increased because of this course.	33	271	452	755	1354	1206	127	4038	3.921140818
+EECS	All	Female	Overall, the instructor was an excellent teacher.	33	76	110	524	1086	1102	1239	2898	4.258030615
+EECS	All	Female	Overall, this was an excellent course	33	261	353	853	1400	1182	121	4049	3.926813137
+EECS	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	33	60	137	495	1046	1112	1286	2850	4.288666029
+EECS	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	33	37	63	293	1056	1400	1292	2849	4.468614364
+EECS	All	Female	The instructor treated students with respect.	33	35	32	256	915	1659	1230	2897	4.610993389
+EECS	All	Female	This course advanced my understanding of the subject matter.	33	91	154	422	1806	1592	121	4065	4.262581308
+EECS	Not a Professor	Female	All Questions	22	516	778	2406	5535	5772	5190	15007	4.273281834
+EECS	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	22	65	161	415	871	922	112	2434	4.160782057
+EECS	Not a Professor	Female	My interest in the subject has increased because of this course.	22	154	251	433	798	786	114	2422	3.962380588
+EECS	Not a Professor	Female	Overall, the instructor was an excellent teacher.	22	26	28	259	517	507	1170	1337	4.349636071
+EECS	Not a Professor	Female	Overall, this was an excellent course	22	154	187	487	818	781	111	2427	3.990212161
+EECS	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	22	25	33	221	488	539	1203	1306	4.415463183
+EECS	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	22	20	27	180	504	565	1213	1296	4.462057938
+EECS	Not a Professor	Female	The instructor treated students with respect.	22	16	7	158	476	686	1155	1343	4.592831667
+EECS	Not a Professor	Female	This course advanced my understanding of the subject matter.	22	56	84	253	1063	986	112	2442	4.277455417
+EECS	Professor	Female	All Questions	11	420	806	1915	4658	4896	347	12695	4.187252457
+EECS	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	11	40	122	308	659	493	9	1622	4.032421496
+EECS	Professor	Female	My interest in the subject has increased because of this course.	11	117	201	322	556	420	13	1616	3.83866128
+EECS	Professor	Female	Overall, the instructor was an excellent teacher.	11	50	82	265	569	595	69	1561	4.074819704
+EECS	Professor	Female	Overall, this was an excellent course	11	107	166	366	582	401	10	1622	3.800015089
+EECS	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	35	104	274	558	573	83	1544	4.035071721
+EECS	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	17	36	113	552	835	79	1553	4.481727217
+EECS	Professor	Female	The instructor treated students with respect.	11	19	25	98	439	973	75	1554	4.647316834
+EECS	Professor	Female	This course advanced my understanding of the subject matter.	11	35	70	169	743	606	9	1623	4.23283309
+ENGR	All	Male	All Questions	21	344	694	1802	5208	6592	401	14640	4.286784599
+ENGR	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	21	44	104	250	654	822	8	1874	4.131642137
+ENGR	All	Male	My interest in the subject has increased because of this course.	21	99	141	344	634	637	26	1855	4.004550222
+ENGR	All	Male	Overall, the instructor was an excellent teacher.	21	31	69	251	662	782	83	1795	4.214476617
+ENGR	All	Male	Overall, this was an excellent course	21	78	159	306	710	620	8	1873	3.974127694
+ENGR	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	21	28	73	214	623	843	101	1781	4.286525188
+ENGR	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	21	12	36	138	596	1009	87	1791	4.530368303
+ENGR	All	Male	The instructor treated students with respect.	21	15	33	109	551	1097	71	1805	4.575874254
+ENGR	All	Male	This course advanced my understanding of the subject matter.	21	37	79	190	778	782	17	1866	4.304101298
+ENGR	Professor	Male	All Questions	20	318	654	1607	4679	6059	263	13317	4.288269386
+ENGR	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	20	42	101	236	603	711	7	1693	4.103990009
+ENGR	Professor	Male	My interest in the subject has increased because of this course.	20	95	131	296	569	589	19	1680	4.010162348
+ENGR	Professor	Male	Overall, the instructor was an excellent teacher.	20	27	68	218	596	734	52	1643	4.221412569
+ENGR	Professor	Male	Overall, this was an excellent course	20	73	148	275	627	568	7	1691	3.971328054
+ENGR	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	20	25	71	200	563	779	61	1638	4.282101448
+ENGR	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	20	10	34	124	536	934	58	1638	4.533136718
+ENGR	Professor	Male	The instructor treated students with respect.	20	13	33	97	492	1012	46	1647	4.576138555
+ENGR	Professor	Male	This course advanced my understanding of the subject matter.	20	33	68	161	693	732	13	1687	4.317541658
+ENGR	All	Female	All Questions	11	131	217	597	1895	2472	229	5312	4.367874561
+ENGR	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	11	30	43	100	263	255	4	691	4.03726966
+ENGR	All	Female	My interest in the subject has increased because of this course.	11	39	58	106	239	244	5	686	4.042721674
+ENGR	All	Female	Overall, the instructor was an excellent teacher.	11	3	19	80	254	282	52	638	4.439818807
+ENGR	All	Female	Overall, this was an excellent course	11	34	43	117	222	275	4	691	4.06895886
+ENGR	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	6	15	67	238	311	53	637	4.50912718
+ENGR	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	2	9	46	218	359	58	634	4.654493071
+ENGR	All	Female	The instructor treated students with respect.	11	0	10	29	190	414	48	643	4.709762908
+ENGR	All	Female	This course advanced my understanding of the subject matter.	11	17	20	52	271	332	5	692	4.329429985
+ENGR	Professor	Female	All Questions	10	131	217	584	1798	2260	156	4990	4.330605413
+ENGR	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	10	30	43	99	252	216	4	640	3.956381242
+ENGR	Professor	Female	My interest in the subject has increased because of this course.	10	39	58	99	220	219	5	635	3.999625421
+ENGR	Professor	Female	Overall, the instructor was an excellent teacher.	10	3	19	78	242	267	34	609	4.430467354
+ENGR	Professor	Female	Overall, this was an excellent course	10	34	43	115	208	240	4	640	3.998711888
+ENGR	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	10	6	15	67	228	291	35	607	4.485039898
+ENGR	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	10	2	9	46	209	339	39	605	4.642442378
+ENGR	Professor	Female	The instructor treated students with respect.	10	0	10	28	182	393	30	613	4.70216777
+ENGR	Professor	Female	This course advanced my understanding of the subject matter.	10	17	20	52	257	295	5	641	4.281291902
+ENGR	Not a Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENGR	Not a Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Male	All Questions	5	9	35	179	724	1223	45	2170	4.694014064
+ENTR	Professor	Male	All Questions	5	9	35	179	724	1223	45	2170	4.694014064
+ENTR	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	5	2	2	26	80	164	2	274	4.614702797
+ENTR	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	5	2	2	26	80	164	2	274	4.614702797
+ENTR	All	Male	My interest in the subject has increased because of this course.	5	3	10	34	96	131	3	274	4.600387894
+ENTR	Professor	Male	My interest in the subject has increased because of this course.	5	3	10	34	96	131	3	274	4.600387894
+ENTR	All	Male	Overall, the instructor was an excellent teacher.	5	2	7	21	99	141	7	270	4.620730471
+ENTR	Professor	Male	Overall, the instructor was an excellent teacher.	5	2	7	21	99	141	7	270	4.620730471
+ENTR	All	Male	Overall, this was an excellent course	5	1	7	30	101	136	3	275	4.537324169
+ENTR	Professor	Male	Overall, this was an excellent course	5	1	7	30	101	136	3	275	4.537324169
+ENTR	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	0	5	17	82	162	12	266	4.725690789
+ENTR	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	0	5	17	82	162	12	266	4.725690789
+ENTR	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	0	1	13	75	181	7	270	4.815332137
+ENTR	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	5	0	1	13	75	181	7	270	4.815332137
+ENTR	All	Male	The instructor treated students with respect.	5	0	1	9	70	187	7	267	4.855284513
+ENTR	Professor	Male	The instructor treated students with respect.	5	0	1	9	70	187	7	267	4.855284513
+ENTR	All	Male	This course advanced my understanding of the subject matter.	5	1	2	29	121	121	4	274	4.573023256
+ENTR	Professor	Male	This course advanced my understanding of the subject matter.	5	1	2	29	121	121	4	274	4.573023256
+ENTR	All	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	All	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENTR	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Male	All Questions	2	42	99	225	464	772	8	1602	4.362284483
+ENVIRON	Professor	Male	All Questions	2	42	99	225	464	772	8	1602	4.362284483
+ENVIRON	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	6	11	29	62	92	1	200	4.286527887
+ENVIRON	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	6	11	29	62	92	1	200	4.286527887
+ENVIRON	All	Male	My interest in the subject has increased because of this course.	2	15	34	41	68	43	1	201	3.647926635
+ENVIRON	Professor	Male	My interest in the subject has increased because of this course.	2	15	34	41	68	43	1	201	3.647926635
+ENVIRON	All	Male	Overall, the instructor was an excellent teacher.	2	4	11	31	50	105	1	201	4.37552521
+ENVIRON	Professor	Male	Overall, the instructor was an excellent teacher.	2	4	11	31	50	105	1	201	4.37552521
+ENVIRON	All	Male	Overall, this was an excellent course	2	9	15	40	66	68	1	198	4.006685433
+ENVIRON	Professor	Male	Overall, this was an excellent course	2	9	15	40	66	68	1	198	4.006685433
+ENVIRON	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	16	24	52	106	1	201	4.379929431
+ENVIRON	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	16	24	52	106	1	201	4.379929431
+ENVIRON	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	1	14	39	147	1	201	4.80667789
+ENVIRON	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	1	14	39	147	1	201	4.80667789
+ENVIRON	All	Male	The instructor treated students with respect.	2	0	1	12	47	139	1	199	4.759738186
+ENVIRON	Professor	Male	The instructor treated students with respect.	2	0	1	12	47	139	1	199	4.759738186
+ENVIRON	All	Male	This course advanced my understanding of the subject matter.	2	5	10	34	80	72	1	201	4.138888889
+ENVIRON	Professor	Male	This course advanced my understanding of the subject matter.	2	5	10	34	80	72	1	201	4.138888889
+ENVIRON	All	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	All	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+ENVIRON	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	All	Male	All Questions	11	61	243	721	1979	2678	39	5682	4.448147375
+IOE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	11	8	38	102	251	309	2	708	4.306518017
+IOE	All	Male	My interest in the subject has increased because of this course.	11	17	48	126	278	248	1	717	4.08773751
+IOE	All	Male	Overall, the instructor was an excellent teacher.	11	5	37	108	260	300	3	710	4.382257619
+IOE	All	Male	Overall, this was an excellent course	11	12	45	127	289	242	2	715	4.085573927
+IOE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	10	39	118	219	321	9	707	4.397660766
+IOE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	11	3	12	55	213	422	12	705	4.652637155
+IOE	All	Male	The instructor treated students with respect.	11	1	4	30	153	515	9	703	4.797780587
+IOE	All	Male	This course advanced my understanding of the subject matter.	11	5	20	55	316	321	1	717	4.405686647
+IOE	Professor	Male	All Questions	9	59	226	627	1665	2200	34	4777	4.424669354
+IOE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	9	8	38	93	206	250	2	595	4.256713742
+IOE	Professor	Male	My interest in the subject has increased because of this course.	9	17	42	113	230	201	1	603	4.041361718
+IOE	Professor	Male	Overall, the instructor was an excellent teacher.	9	5	33	90	219	251	3	598	4.392592913
+IOE	Professor	Male	Overall, this was an excellent course	9	11	44	109	240	197	2	601	4.045200157
+IOE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	9	9	33	100	185	267	8	594	4.390247932
+IOE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	9	3	12	48	182	348	10	593	4.633977158
+IOE	Professor	Male	The instructor treated students with respect.	9	1	4	25	135	427	7	592	4.782959899
+IOE	Professor	Male	This course advanced my understanding of the subject matter.	9	5	20	49	268	259	1	601	4.370144791
+IOE	All	Female	All Questions	3	24	83	276	827	605	8	1815	4.166627071
+IOE	Professor	Female	All Questions	3	24	83	276	827	605	8	1815	4.166627071
+IOE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	0	10	45	92	81	1	228	4.125705376
+IOE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	0	10	45	92	81	1	228	4.125705376
+IOE	All	Female	My interest in the subject has increased because of this course.	3	9	22	47	98	49	1	225	3.925793651
+IOE	Professor	Female	My interest in the subject has increased because of this course.	3	9	22	47	98	49	1	225	3.925793651
+IOE	All	Female	Overall, the instructor was an excellent teacher.	3	5	13	45	119	45	1	227	3.945438596
+IOE	Professor	Female	Overall, the instructor was an excellent teacher.	3	5	13	45	119	45	1	227	3.945438596
+IOE	All	Female	Overall, this was an excellent course	3	3	15	47	117	44	1	226	3.950346709
+IOE	Professor	Female	Overall, this was an excellent course	3	3	15	47	117	44	1	226	3.950346709
+IOE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	5	15	40	105	62	1	227	4.101052189
+IOE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	5	15	40	105	62	1	227	4.101052189
+IOE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	3	17	92	116	1	228	4.518537415
+IOE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	3	17	92	116	1	228	4.518537415
+IOE	All	Female	The instructor treated students with respect.	3	1	3	17	69	135	1	225	4.54742624
+IOE	Professor	Female	The instructor treated students with respect.	3	1	3	17	69	135	1	225	4.54742624
+IOE	All	Female	This course advanced my understanding of the subject matter.	3	1	2	18	135	73	1	229	4.281105991
+IOE	Professor	Female	This course advanced my understanding of the subject matter.	3	1	2	18	135	73	1	229	4.281105991
+IOE	Not a Professor	Male	All Questions	2	2	17	94	314	478	5	905	4.55379847
+IOE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	0	0	9	45	59	0	113	4.530637255
+IOE	Not a Professor	Male	My interest in the subject has increased because of this course.	2	0	6	13	48	47	0	114	4.296428571
+IOE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	2	0	4	18	41	49	0	112	4.335748792
+IOE	Not a Professor	Male	Overall, this was an excellent course	2	1	1	18	49	45	0	114	4.267255892
+IOE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	6	18	34	54	1	113	4.431018519
+IOE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	0	7	31	74	2	112	4.736607143
+IOE	Not a Professor	Male	The instructor treated students with respect.	2	0	0	5	18	88	2	111	4.864473684
+IOE	Not a Professor	Male	This course advanced my understanding of the subject matter.	2	0	0	6	48	62	0	116	4.565625
+IOE	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+IOE	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	All	Female	All Questions	2	8	37	165	441	374	59	1025	4.185634444
+MACROMOL	All	Male	All Questions	2	11	63	152	322	266	64	814	4.001033725
+MACROMOL	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	0	8	30	62	36	0	136	3.983870968
+MACROMOL	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	1	12	25	40	32	0	110	3.853046595
+MACROMOL	All	Female	My interest in the subject has increased because of this course.	2	2	14	32	56	32	0	136	3.857142857
+MACROMOL	All	Male	My interest in the subject has increased because of this course.	2	2	12	28	47	21	0	110	3.757518797
+MACROMOL	All	Female	Overall, the instructor was an excellent teacher.	2	1	5	20	47	45	16	118	4.210164835
+MACROMOL	All	Male	Overall, the instructor was an excellent teacher.	2	1	10	16	37	29	17	93	3.937888199
+MACROMOL	All	Female	Overall, this was an excellent course	2	4	6	42	62	22	0	136	3.758064516
+MACROMOL	All	Male	Overall, this was an excellent course	2	4	12	31	45	18	0	110	3.629032258
+MACROMOL	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	3	12	54	50	15	120	4.33125
+MACROMOL	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	6	16	32	36	16	93	3.971153846
+MACROMOL	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	1	9	46	64	15	120	4.565686275
+MACROMOL	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	9	14	33	37	16	93	4.083104396
+MACROMOL	All	Female	The instructor treated students with respect.	2	0	0	4	32	87	13	123	4.757954545
+MACROMOL	All	Male	The instructor treated students with respect.	2	0	0	3	26	66	15	95	4.782169118
+MACROMOL	All	Female	This course advanced my understanding of the subject matter.	2	0	0	16	82	38	0	136	4.134146341
+MACROMOL	All	Male	This course advanced my understanding of the subject matter.	2	0	2	19	62	27	0	110	4.007549361
+MACROMOL	Not a Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Not a Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MACROMOL	Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	All	Male	All Questions	12	82	251	627	1578	1634	235	4172	4.061007523
+MATSCIE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	12	14	40	100	212	185	1	551	3.76436908
+MATSCIE	All	Male	My interest in the subject has increased because of this course.	12	22	62	129	209	128	1	550	3.566713691
+MATSCIE	All	Male	Overall, the instructor was an excellent teacher.	12	6	28	71	195	190	59	490	4.146886281
+MATSCIE	All	Male	Overall, this was an excellent course	12	23	55	130	218	125	1	551	3.566866608
+MATSCIE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	12	7	27	72	168	214	61	488	4.227116986
+MATSCIE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	12	0	9	30	157	295	60	491	4.489196187
+MATSCIE	All	Male	The instructor treated students with respect.	12	7	12	44	156	282	51	501	4.529791251
+MATSCIE	All	Male	This course advanced my understanding of the subject matter.	12	3	18	51	263	215	1	550	4.158736859
+MATSCIE	Professor	Male	All Questions	9	63	199	444	1142	1304	10	3152	4.136931195
+MATSCIE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	9	10	29	67	147	142	1	395	3.817247184
+MATSCIE	Professor	Male	My interest in the subject has increased because of this course.	9	15	45	86	150	98	1	394	3.636570635
+MATSCIE	Professor	Male	Overall, the instructor was an excellent teacher.	9	6	27	53	150	155	3	391	4.124994912
+MATSCIE	Professor	Male	Overall, this was an excellent course	9	16	39	83	156	101	1	395	3.648604248
+MATSCIE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	9	7	26	61	127	172	1	393	4.137917864
+MATSCIE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	9	0	9	21	120	245	1	395	4.464100207
+MATSCIE	Professor	Male	The instructor treated students with respect.	9	7	12	39	120	217	1	395	4.487006736
+MATSCIE	Professor	Male	This course advanced my understanding of the subject matter.	9	2	12	34	172	174	1	394	4.233781034
+MATSCIE	All	Female	All Questions	3	23	78	283	840	1028	67	2252	4.311065164
+MATSCIE	Not a Professor	Male	All Questions	3	19	52	183	436	330	225	1020	3.833236507
+MATSCIE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	1	10	53	121	104	1	289	4.10789138
+MATSCIE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	4	11	33	65	43	0	156	3.605734767
+MATSCIE	All	Female	My interest in the subject has increased because of this course.	3	7	35	62	114	70	1	288	3.853037767
+MATSCIE	Not a Professor	Male	My interest in the subject has increased because of this course.	3	7	17	43	59	30	0	156	3.357142857
+MATSCIE	All	Female	Overall, the instructor was an excellent teacher.	3	4	9	29	91	139	17	272	4.367060245
+MATSCIE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	3	0	1	18	45	35	56	99	4.212560386
+MATSCIE	All	Female	Overall, this was an excellent course	3	6	14	70	128	72	1	290	3.869012708
+MATSCIE	Not a Professor	Male	Overall, this was an excellent course	3	7	16	47	62	24	0	156	3.321653689
+MATSCIE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	2	8	24	93	146	16	273	4.455208333
+MATSCIE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	1	11	41	42	60	95	4.49471435
+MATSCIE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	1	11	74	186	16	273	4.66810779
+MATSCIE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	0	0	9	37	50	59	96	4.564484127
+MATSCIE	All	Female	The instructor treated students with respect.	3	0	1	7	65	204	14	277	4.785929811
+MATSCIE	Not a Professor	Male	The instructor treated students with respect.	3	0	0	5	36	65	50	106	4.658144796
+MATSCIE	All	Female	This course advanced my understanding of the subject matter.	3	2	0	27	154	107	1	290	4.219060524
+MATSCIE	Not a Professor	Male	This course advanced my understanding of the subject matter.	3	1	6	17	91	41	0	156	3.933604336
+MATSCIE	Professor	Female	All Questions	2	20	63	202	626	854	12	1765	4.378980924
+MATSCIE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	1	6	38	90	86	1	221	4.169901586
+MATSCIE	Professor	Female	My interest in the subject has increased because of this course.	2	6	28	46	86	54	1	220	3.850985222
+MATSCIE	Professor	Female	Overall, the instructor was an excellent teacher.	2	4	8	20	70	117	2	219	4.407733224
+MATSCIE	Professor	Female	Overall, this was an excellent course	2	4	11	49	97	61	1	222	3.924486804
+MATSCIE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	2	8	21	69	120	2	220	4.443229167
+MATSCIE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	1	6	56	156	2	220	4.693828351
+MATSCIE	Professor	Female	The instructor treated students with respect.	2	0	1	3	45	172	2	221	4.866394716
+MATSCIE	Professor	Female	This course advanced my understanding of the subject matter.	2	2	0	19	113	88	1	222	4.261517615
+MATSCIE	Not a Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MATSCIE	Not a Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+MECHENG	All	Male	All Questions	48	436	808	1817	4745	6552	712	14358	4.267914076
+MECHENG	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	48	70	135	301	674	707	2	1887	4.076787517
+MECHENG	All	Male	My interest in the subject has increased because of this course.	48	107	174	324	637	641	2	1883	3.846937047
+MECHENG	All	Male	Overall, the instructor was an excellent teacher.	48	51	98	221	557	786	165	1713	4.238240523
+MECHENG	All	Male	Overall, this was an excellent course	48	89	177	341	680	601	1	1888	3.846006035
+MECHENG	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	48	55	83	227	521	816	181	1702	4.27560332
+MECHENG	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	48	15	48	134	477	1012	196	1686	4.547616947
+MECHENG	All	Male	The instructor treated students with respect.	48	13	34	105	427	1134	163	1713	4.671719294
+MECHENG	All	Male	This course advanced my understanding of the subject matter.	48	36	59	164	772	855	2	1886	4.325374228
+MECHENG	Professor	Male	All Questions	29	341	642	1335	3490	4901	216	10709	4.247174362
+MECHENG	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	29	58	105	218	494	494	1	1369	4.005095146
+MECHENG	Professor	Male	My interest in the subject has increased because of this course.	29	79	118	237	472	460	1	1366	3.850222328
+MECHENG	Professor	Male	Overall, the instructor was an excellent teacher.	29	45	90	168	409	599	50	1311	4.162803481
+MECHENG	Professor	Male	Overall, this was an excellent course	29	60	136	241	497	435	0	1369	3.83593871
+MECHENG	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	29	49	74	177	378	632	55	1310	4.204849733
+MECHENG	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	29	12	41	92	357	807	57	1309	4.568699192
+MECHENG	Professor	Male	The instructor treated students with respect.	29	11	32	84	316	865	51	1308	4.647178801
+MECHENG	Professor	Male	This course advanced my understanding of the subject matter.	29	27	46	118	567	609	1	1367	4.312331058
+MECHENG	Not a Professor	Male	All Questions	19	95	166	482	1255	1651	496	3649	4.299569428
+MECHENG	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	19	12	30	83	180	213	1	518	4.186212716
+MECHENG	Not a Professor	Male	My interest in the subject has increased because of this course.	19	28	56	87	165	181	1	517	3.841922671
+MECHENG	Not a Professor	Male	Overall, the instructor was an excellent teacher.	19	6	8	53	148	187	115	402	4.353381272
+MECHENG	Not a Professor	Male	Overall, this was an excellent course	19	29	41	100	183	166	1	519	3.861371953
+MECHENG	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	19	6	9	50	143	184	126	392	4.383595636
+MECHENG	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	19	3	7	42	120	205	139	377	4.515438784
+MECHENG	Not a Professor	Male	The instructor treated students with respect.	19	2	2	21	111	269	112	405	4.709175837
+MECHENG	Not a Professor	Male	This course advanced my understanding of the subject matter.	19	9	13	46	205	246	1	519	4.345282225
+MECHENG	All	Female	All Questions	12	117	201	464	1083	1394	295	3259	4.312700901
+MECHENG	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	12	26	35	70	150	158	7	439	4.125969683
+MECHENG	All	Female	My interest in the subject has increased because of this course.	12	27	41	95	135	137	7	435	3.953122271
+MECHENG	All	Female	Overall, the instructor was an excellent teacher.	12	13	25	51	133	156	66	378	4.14009282
+MECHENG	All	Female	Overall, this was an excellent course	12	24	44	95	135	142	6	440	3.961553438
+MECHENG	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	12	12	25	51	122	168	66	378	4.264712959
+MECHENG	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	12	4	14	33	126	195	72	372	4.500594946
+MECHENG	All	Female	The instructor treated students with respect.	12	0	5	24	96	255	64	380	4.721590205
+MECHENG	All	Female	This course advanced my understanding of the subject matter.	12	11	12	45	186	183	7	437	4.36045833
+MECHENG	Professor	Female	All Questions	8	94	173	386	847	1059	69	2559	4.245795734
+MECHENG	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	8	23	31	60	112	103	1	329	4.072287857
+MECHENG	Professor	Female	My interest in the subject has increased because of this course.	8	23	33	78	94	98	1	326	3.834946564
+MECHENG	Professor	Female	Overall, the instructor was an excellent teacher.	8	8	22	41	110	131	16	312	4.15545173
+MECHENG	Professor	Female	Overall, this was an excellent course	8	22	37	81	100	89	1	329	3.799716521
+MECHENG	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	7	22	40	105	139	15	313	4.235502881
+MECHENG	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	8	1	12	25	110	162	18	310	4.507927051
+MECHENG	Professor	Female	The instructor treated students with respect.	8	0	5	19	77	212	16	313	4.754829285
+MECHENG	Professor	Female	This course advanced my understanding of the subject matter.	8	10	11	42	139	125	1	327	4.286913714
+MECHENG	Not a Professor	Female	All Questions	4	23	28	78	236	335	226	700	4.446511236
+MECHENG	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	4	3	4	10	38	55	6	110	4.233333333
+MECHENG	Not a Professor	Female	My interest in the subject has increased because of this course.	4	4	8	17	41	39	6	109	4.189473684
+MECHENG	Not a Professor	Female	Overall, the instructor was an excellent teacher.	4	5	3	10	23	25	50	66	4.109375
+MECHENG	Not a Professor	Female	Overall, this was an excellent course	4	2	7	14	35	53	5	111	4.285227273
+MECHENG	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	5	3	11	17	29	51	65	4.323133117
+MECHENG	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	4	3	2	8	16	33	54	62	4.485930736
+MECHENG	Not a Professor	Female	The instructor treated students with respect.	4	0	0	5	19	43	48	67	4.655112045
+MECHENG	Not a Professor	Female	This course advanced my understanding of the subject matter.	4	1	1	3	47	58	6	110	4.50754756
+NAVARCH	All	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	All	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NAVARCH	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	All	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Male	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+NERS	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Male	All Questions	2	16	42	121	346	670	8	1195	4.522741841
+SPACE	Professor	Male	All Questions	2	16	42	121	346	670	8	1195	4.522741841
+SPACE	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	3	3	13	35	95	1	149	4.668576759
+SPACE	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	3	3	13	35	95	1	149	4.668576759
+SPACE	All	Male	My interest in the subject has increased because of this course.	2	3	19	31	55	42	1	150	3.912878788
+SPACE	Professor	Male	My interest in the subject has increased because of this course.	2	3	19	31	55	42	1	150	3.912878788
+SPACE	All	Male	Overall, the instructor was an excellent teacher.	2	3	2	15	40	90	1	150	4.518382353
+SPACE	Professor	Male	Overall, the instructor was an excellent teacher.	2	3	2	15	40	90	1	150	4.518382353
+SPACE	All	Male	Overall, this was an excellent course	2	2	4	22	54	66	1	148	4.277806122
+SPACE	Professor	Male	Overall, this was an excellent course	2	2	4	22	54	66	1	148	4.277806122
+SPACE	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	3	14	35	94	1	149	4.511558219
+SPACE	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	3	3	14	35	94	1	149	4.511558219
+SPACE	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	1	5	31	112	1	150	4.773197929
+SPACE	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	1	5	31	112	1	150	4.773197929
+SPACE	All	Male	The instructor treated students with respect.	2	0	1	4	26	118	1	149	4.845595596
+SPACE	Professor	Male	The instructor treated students with respect.	2	0	1	4	26	118	1	149	4.845595596
+SPACE	All	Male	This course advanced my understanding of the subject matter.	2	1	9	17	70	53	1	150	4.188888889
+SPACE	Professor	Male	This course advanced my understanding of the subject matter.	2	1	9	17	70	53	1	150	4.188888889
+SPACE	All	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	All Questions	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	My interest in the subject has increased because of this course.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	Overall, the instructor was an excellent teacher.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	Overall, this was an excellent course	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	The instructor treated students with respect.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	All	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Professor	Female	This course advanced my understanding of the subject matter.	1	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+SPACE	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	All	Female	All Questions	7	70	96	233	838	997	88	2234	4.254775261
+TCHNCLCM	Professor	Female	All Questions	7	70	96	233	838	997	88	2234	4.254775261
+TCHNCLCM	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	7	15	25	51	115	84	1	290	3.885155747
+TCHNCLCM	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	7	15	25	51	115	84	1	290	3.885155747
+TCHNCLCM	All	Female	My interest in the subject has increased because of this course.	7	17	26	41	105	97	2	286	3.959096922
+TCHNCLCM	Professor	Female	My interest in the subject has increased because of this course.	7	17	26	41	105	97	2	286	3.959096922
+TCHNCLCM	All	Female	Overall, the instructor was an excellent teacher.	7	2	7	25	118	119	20	271	4.331034974
+TCHNCLCM	Professor	Female	Overall, the instructor was an excellent teacher.	7	2	7	25	118	119	20	271	4.331034974
+TCHNCLCM	All	Female	Overall, this was an excellent course	7	22	18	47	91	112	1	290	3.989546053
+TCHNCLCM	Professor	Female	Overall, this was an excellent course	7	22	18	47	91	112	1	290	3.989546053
+TCHNCLCM	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	7	3	5	24	105	129	22	266	4.423628364
+TCHNCLCM	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	7	3	5	24	105	129	22	266	4.423628364
+TCHNCLCM	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	7	0	4	11	101	150	24	266	4.577055822
+TCHNCLCM	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	7	0	4	11	101	150	24	266	4.577055822
+TCHNCLCM	All	Female	The instructor treated students with respect.	7	0	3	9	79	183	16	274	4.65440838
+TCHNCLCM	Professor	Female	The instructor treated students with respect.	7	0	3	9	79	183	16	274	4.65440838
+TCHNCLCM	All	Female	This course advanced my understanding of the subject matter.	7	11	8	25	124	123	2	291	4.191414835
+TCHNCLCM	Professor	Female	This course advanced my understanding of the subject matter.	7	11	8	25	124	123	2	291	4.191414835
+TCHNCLCM	All	Male	All Questions	2	44	93	186	343	367	0	1033	4.134664179
+TCHNCLCM	Professor	Male	All Questions	2	44	93	186	343	367	0	1033	4.134664179
+TCHNCLCM	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	11	18	35	38	28	0	130	3.451149425
+TCHNCLCM	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	11	18	35	38	28	0	130	3.451149425
+TCHNCLCM	All	Male	My interest in the subject has increased because of this course.	2	13	18	29	43	26	0	129	3.395833333
+TCHNCLCM	Professor	Male	My interest in the subject has increased because of this course.	2	13	18	29	43	26	0	129	3.395833333
+TCHNCLCM	All	Male	Overall, the instructor was an excellent teacher.	2	3	9	22	50	45	0	129	4.228174603
+TCHNCLCM	Professor	Male	Overall, the instructor was an excellent teacher.	2	3	9	22	50	45	0	129	4.228174603
+TCHNCLCM	All	Male	Overall, this was an excellent course	2	9	19	39	36	27	0	130	3.245535714
+TCHNCLCM	Professor	Male	Overall, this was an excellent course	2	9	19	39	36	27	0	130	3.245535714
+TCHNCLCM	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	12	22	41	53	0	129	4.359848485
+TCHNCLCM	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	1	12	22	41	53	0	129	4.359848485
+TCHNCLCM	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	4	9	43	72	0	128	4.656318681
+TCHNCLCM	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	4	9	43	72	0	128	4.656318681
+TCHNCLCM	All	Male	The instructor treated students with respect.	2	1	3	12	31	81	0	128	4.72752193
+TCHNCLCM	Professor	Male	The instructor treated students with respect.	2	1	3	12	31	81	0	128	4.72752193
+TCHNCLCM	All	Male	This course advanced my understanding of the subject matter.	2	6	10	18	61	35	0	130	3.97173913
+TCHNCLCM	Professor	Male	This course advanced my understanding of the subject matter.	2	6	10	18	61	35	0	130	3.97173913
+TCHNCLCM	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+TCHNCLCM	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	All	Male	All Questions	3	126	145	227	411	538	1	1447	3.951672707
+UARTS	Professor	Male	All Questions	3	126	145	227	411	538	1	1447	3.951672707
+UARTS	All	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	16	40	34	60	32	0	182	3.30952381
+UARTS	Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	3	16	40	34	60	32	0	182	3.30952381
+UARTS	All	Male	My interest in the subject has increased because of this course.	3	42	21	51	33	35	0	182	3.026388889
+UARTS	Professor	Male	My interest in the subject has increased because of this course.	3	42	21	51	33	35	0	182	3.026388889
+UARTS	All	Male	Overall, the instructor was an excellent teacher.	3	5	2	34	54	86	0	181	4.241787919
+UARTS	Professor	Male	Overall, the instructor was an excellent teacher.	3	5	2	34	54	86	0	181	4.241787919
+UARTS	All	Male	Overall, this was an excellent course	3	43	37	27	37	35	0	179	2.794117647
+UARTS	Professor	Male	Overall, this was an excellent course	3	43	37	27	37	35	0	179	2.794117647
+UARTS	All	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	3	8	25	52	92	0	180	4.322126437
+UARTS	Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	3	8	25	52	92	0	180	4.322126437
+UARTS	All	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	2	11	62	104	0	180	4.545758128
+UARTS	Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	3	1	2	11	62	104	0	180	4.545758128
+UARTS	All	Male	The instructor treated students with respect.	3	1	1	9	58	112	1	181	4.659401709
+UARTS	Professor	Male	The instructor treated students with respect.	3	1	1	9	58	112	1	181	4.659401709
+UARTS	All	Male	This course advanced my understanding of the subject matter.	3	15	34	36	55	42	0	182	3.467391304
+UARTS	Professor	Male	This course advanced my understanding of the subject matter.	3	15	34	36	55	42	0	182	3.467391304
+UARTS	All	Female	All Questions	2	90	119	179	236	122	0	746	3.420651355
+UARTS	Professor	Female	All Questions	2	90	119	179	236	122	0	746	3.420651355
+UARTS	All	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	10	26	22	32	4	0	94	3
+UARTS	Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	2	10	26	22	32	4	0	94	3
+UARTS	All	Female	My interest in the subject has increased because of this course.	2	28	14	32	18	2	0	94	2.65625
+UARTS	Professor	Female	My interest in the subject has increased because of this course.	2	28	14	32	18	2	0	94	2.65625
+UARTS	All	Female	Overall, the instructor was an excellent teacher.	2	8	16	24	32	13	0	93	3.427521008
+UARTS	Professor	Female	Overall, the instructor was an excellent teacher.	2	8	16	24	32	13	0	93	3.427521008
+UARTS	All	Female	Overall, this was an excellent course	2	28	24	18	20	2	0	92	2.25
+UARTS	Professor	Female	Overall, this was an excellent course	2	28	24	18	20	2	0	92	2.25
+UARTS	All	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	5	8	27	29	24	0	93	3.678921569
+UARTS	Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	5	8	27	29	24	0	93	3.678921569
+UARTS	All	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	5	14	38	36	0	93	4.210784314
+UARTS	Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	2	0	5	14	38	36	0	93	4.210784314
+UARTS	All	Female	The instructor treated students with respect.	2	1	4	18	35	35	0	93	4.170833333
+UARTS	Professor	Female	The instructor treated students with respect.	2	1	4	18	35	35	0	93	4.170833333
+UARTS	All	Female	This course advanced my understanding of the subject matter.	2	10	22	24	32	6	0	94	3.125
+UARTS	Professor	Female	This course advanced my understanding of the subject matter.	2	10	22	24	32	6	0	94	3.125
+UARTS	Not a Professor	Female	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	All Questions	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	I knew what was expected of me in this course. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever).	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	My interest in the subject has increased because of this course.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	Overall, the instructor was an excellent teacher.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	Overall, this was an excellent course	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	The instructor explained material clearly.  (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	The instructor seemed well prepared for class meetings. (SA=Almost Always, A=Frequently, N=Sometimes, D=Occasionally, SD=Hardly Ever)	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	The instructor treated students with respect.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Female	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
+UARTS	Not a Professor	Male	This course advanced my understanding of the subject matter.	0	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data	Not Enough Data
